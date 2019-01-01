@@ -8,6 +8,9 @@
 ④　开发环境 IDEA<br>
 ⑤　项目管理 Maven3.3<br>
 ### 项目运行截图
-![]()
+![](https://github.com/1046633575/SSM_seckill/blob/master/image/1.png)<br>
+![](https://github.com/1046633575/SSM_seckill/blob/master/image/2.png)<br>
+![](https://github.com/1046633575/SSM_seckill/blob/master/image/3.png)<br>
+![](https://github.com/1046633575/SSM_seckill/blob/master/image/4.png)<br>
 
 
