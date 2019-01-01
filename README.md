@@ -1,5 +1,5 @@
 
-# 本项目基于慕课网秒杀课程的dao、service、web层编写而成    并没有最后的高并发优化
+# SSM框架做成的秒杀项目
 ### [视频教程地址](https://www.imooc.com/learn/587)
 ### 项目配置:
 ①　框架 Spring + SpringMVC + Mybatis<br>
