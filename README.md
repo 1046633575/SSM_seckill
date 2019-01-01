@@ -1,6 +1,7 @@
 
 # SSM框架做成的秒杀项目
-### [视频教程地址](https://www.imooc.com/learn/587)
+
+### 项目基于慕课网秒杀教程的前三部分写成 并没有最后的高并发优化部分 [视频教程地址](https://www.imooc.com/learn/587)
 ### 项目配置:
 ①　框架 Spring + SpringMVC + Mybatis<br>
 ②　数据库 MySql 5.7<br>
